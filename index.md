@@ -16,3 +16,8 @@ Adding a codeblock:
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+## Adding a task list 
+
+- [ ] List item 1
+- [ ] List item 2
+- [x] Completed list item 3
