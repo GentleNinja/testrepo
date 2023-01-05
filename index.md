@@ -9,3 +9,10 @@ CONTENT LINE 2 no Header
 
 A Yaktocat
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Adding a codeblock:
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
