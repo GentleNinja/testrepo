@@ -21,3 +21,5 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 - [ ] List item 1
 - [ ] List item 2
 - [x] Completed list item 3
+
+theme: minima
