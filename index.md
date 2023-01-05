@@ -5,3 +5,7 @@ CONTENT LINE 2 no Header
 #### CONTENT LINE 4 H4 Header
 ##### CONTENT LINE 5 H5 Header
 ###### CONTENT LINE 6 H6 Header
+
+
+A Yaktocat
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
